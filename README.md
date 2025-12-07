@@ -5,9 +5,9 @@ Hi there! 👋 I'm **Mohamad Arvin Fadriansyah**.
 I am a Computer Science graduate from Universitas Indonesia (UI), class of 2020, with a strong passion for Artificial Intelligence, Machine Learning, and Backend Development.
 
 ## 🔭 I’m currently working on
-- 💻 Building robust backend systems at **Arvis**.
-- 🔬 Conducting research on **Semantic Search** and **Graph Databases** at the **IR & NLP Lab, Universitas Indonesia**.
-- 📊 Refining projects related to **Facial Emotion Recognition** and **Semantic Lyric Clustering**.
+- Backend development at **Arvis**
+
+- Research in the IR & NLP Lab, Universitas Indonesia
 
 ## 🤝 I’m looking to collaborate on
 - AI research, especially in Information Retrieval and NLP
