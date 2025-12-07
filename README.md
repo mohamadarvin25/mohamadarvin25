@@ -1,4 +1,6 @@
-<img width="1056" height="422" alt="image" src="https://github.com/user-attachments/assets/d1d34635-bc8d-4587-b701-41de977ccd4f" /># 💫 About Me
+<img width="1056" height="422" alt="image" src="https://github.com/user-attachments/assets/d1d34635-bc8d-4587-b701-41de977ccd4f" />
+
+# 💫 About Me
 ## 🔭 I’m currently working on
 - Backend development at **Arvis**
 - Research in the IR & NLP Lab, Universitas Indonesia
