@@ -1,4 +1,4 @@
-# 💫 About Me
+<img width="1056" height="422" alt="image" src="https://github.com/user-attachments/assets/d1d34635-bc8d-4587-b701-41de977ccd4f" /># 💫 About Me
 ## 🔭 I’m currently working on
 - Backend development at **Arvis**
 - Research in the IR & NLP Lab, Universitas Indonesia
@@ -22,8 +22,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohamadarvin25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohamadarvin25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+// ### 🔝 Top Contributed Repo
+// ![](https://github-contributor-stats.vercel.app/api?username=mohamadarvin25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamadarvin25&icon=0&color=0)](https://visitcount.itsvg.in)
