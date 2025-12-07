@@ -1,5 +1,10 @@
-# 💫 About Me:
-## 🔭 I’m currently working on<br>- Backend development at **Arvis** <br>- Conducting research at the Information Retrieval & NLP Lab, Universitas Indonesia<br><br>## 🤝 I’m looking to collaborate on<br>- AI research projects, especially in Information Retrieval and Natural Language Processing<br>- Exploratory research in machine learning, deep learning, and model evaluation<br><br><br>## 🌱 I’m currently learning<br>- AI/ML (DL, RL, NLP) and backend system design best practices<br><br>
+# 💫 About Me
+## 🔭 I’m currently working on
+- Backend development at **Arvis**
+- Research in the IR & NLP Lab, Universitas Indonesia
+
+## 🤝 I’m looking to collaborate on
+- AI research, especially in Information Retrieval and NLP
 
 
 ## 🌐 Socials:
