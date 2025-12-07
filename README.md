@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Mohamad Arvin Fadriansyah**.
 
-I am a System Information graduate from Universitas Indonesia (UI), class of 2020, with a strong passion for Artificial Intelligence, Machine Learning, and Backend Development. I love building reliable backend systems while exploring how intelligent data-driven models can enhance real-world applications. My current focus includes backend architecture, Information Retrieval (IR), and Natural Language Processing (NLP).
+I am a System Information graduate from Universitas Indonesia (UI), class of 2020, with a strong passion for Artificial Intelligence, Machine Learning, and Backend Development.
 
 ## 🔭 I’m currently working on
 - 💻 Building robust backend systems at **Arvis**.
