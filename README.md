@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Mohamad Arvin Fadriansyah**.
 
-I am a passionate **Backend Developer** and **AI Researcher** from Indonesia. I love bridging the gap between robust software engineering and intelligent data systems. My work currently focuses on building scalable backend architectures and exploring the frontiers of **Information Retrieval (IR)** and **Natural Language Processing (NLP)**.
+I am a System Information graduate from Universitas Indonesia (UI), class of 2020, with a strong passion for Artificial Intelligence, Machine Learning, and Backend Development. I love building reliable backend systems while exploring how intelligent data-driven models can enhance real-world applications. My current focus includes backend architecture, Information Retrieval (IR), and Natural Language Processing (NLP).
 
 ## 🔭 I’m currently working on
 - 💻 Building robust backend systems at **Arvis**.
