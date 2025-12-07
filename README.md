@@ -1,16 +1,26 @@
 # 💫 About Me
+
+Hi there! 👋 I'm **Mohamad Arvin Fadriansyah**.
+
+I am a passionate **Backend Developer** and **AI Researcher** from Indonesia. I love bridging the gap between robust software engineering and intelligent data systems. My work currently focuses on building scalable backend architectures and exploring the frontiers of **Information Retrieval (IR)** and **Natural Language Processing (NLP)**.
+
 ## 🔭 I’m currently working on
-- Backend development at **Arvis**
-- Research in the IR & NLP Lab, Universitas Indonesia
+- 💻 Building robust backend systems at **Arvis**.
+- 🔬 Conducting research on **Semantic Search** and **Graph Databases** at the **IR & NLP Lab, Universitas Indonesia**.
+- 📊 Refining projects related to **Facial Emotion Recognition** and **Semantic Lyric Clustering**.
 
 ## 🤝 I’m looking to collaborate on
-- AI research, especially in Information Retrieval and NLP
+- Open-source **NLP** projects.
+- Implementation of **Neo4j** in complex data structures.
+- Innovative **Search Engine** technologies.
 
+## ⚡ Fun Fact
+- When I'm not debugging complex **Cypher** queries or training models, you can find me jamming to **Dangdut** music! 🎵
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-arvin-fadriansyah-a21560236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamadarvin84@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-arvin-fadriansyah-a21560236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamadarvin84@gmail.com)
 
-
+---
 
 ## 🏗️ Tech Stack
 
@@ -68,12 +78,6 @@
 
 ---
 
-Kalau mau **ditambah AWS/GCP/Terraform/K8s**, atau mau **dark mode semua**, tinggal bilang aja ya!
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohamadarvin25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamadarvin25&theme=dark&hide_border=false)
@@ -83,9 +87,5 @@ Kalau mau **ditambah AWS/GCP/Terraform/K8s**, atau mau **dark mode semua**, ting
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohamadarvin25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamadarvin25&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
