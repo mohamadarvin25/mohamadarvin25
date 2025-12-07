@@ -10,12 +10,9 @@ I am a passionate **Backend Developer** and **AI Researcher** from Indonesia. I 
 - 📊 Refining projects related to **Facial Emotion Recognition** and **Semantic Lyric Clustering**.
 
 ## 🤝 I’m looking to collaborate on
-- Open-source **NLP** projects.
-- Implementation of **Neo4j** in complex data structures.
-- Innovative **Search Engine** technologies.
+- AI research, especially in Information Retrieval and NLP
+  
 
-## ⚡ Fun Fact
-- When I'm not debugging complex **Cypher** queries or training models, you can find me jamming to **Dangdut** music! 🎵
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-arvin-fadriansyah-a21560236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamadarvin84@gmail.com)
