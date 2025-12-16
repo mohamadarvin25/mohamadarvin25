@@ -56,6 +56,8 @@ I am a Computer Science graduate from Universitas Indonesia (UI), class of 2020,
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-05122A?style=for-the-badge&logo=gin&logoColor=00838F)
 
 ---
 
